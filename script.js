@@ -19,3 +19,8 @@ for(let i = 0; i < btnNumbers.length; i++){
     btnNumbers[i].addEventListeners('click', );
 }
 
+// adding event listeners for all operator buttons and by looping through them
+for(let i = 0; i < btnOperators.length; i++){
+    btnOperators[i].addEventListeners('click', )
+}
+
