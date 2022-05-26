@@ -7,3 +7,4 @@ const decimal = document.getElementById('decimal');
 const btnNumbers = document.getElementsByClassName('btn-number');
 //Selecting the four operators (add/subtract/divide/multiply) and the equals operators
 const btnOperators = document.getElementsByClassName('btn-operator');
+
