@@ -10,6 +10,12 @@ const btnOperators = document.getElementsByClassName('btn-operator');
 
 
 // variables created for holding our temporaty values
-const displayValue = "0";
-const pendingInput;
-const resultArray = [];
+const displayVal = "0";
+const pendingVal;
+const evalStringArray = [];
+
+// adding event listeners for all number buttons and by looping through them
+for(let i = 0; i < btnNumbers.length; i++){
+    btnNumbers[i].addEventListeners('click', );
+}
+
